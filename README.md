@@ -1,2 +1,2 @@
 # Python_PhoneBook
-Course project. Librarys: SQLite, Tkinter
+Course project. Libraries: SQLite, Tkinter
